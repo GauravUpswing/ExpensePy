@@ -1,0 +1,26 @@
+[
+    {
+        "category": "Food",
+        "amount": 20.0
+    },
+    {
+        "category": "Travel",
+        "amount": 30.0
+    },
+    {
+        "category": "Food",
+        "amount": 20.0
+    },
+    {
+        "category": "Travel",
+        "amount": 60.0
+    },
+    {
+        "category": "Bill",
+        "amount": 10.0
+    },
+    {
+        "category": "Bill",
+        "amount": 20.0
+    }
+]
